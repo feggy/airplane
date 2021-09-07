@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608869576996",
+    "project_id": "airplane-59976",
+    "storage_bucket": "airplane-59976.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608869576996:android:84c55a1f90740f0aa9c3b1",
+        "android_client_info": {
+          "package_name": "com.pegee.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608869576996-j9kgkopcnvksf67fktamr4lrrpkoj87h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfO2xvGClFhxEW4FraudgkrRcy8iJlDwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608869576996-j9kgkopcnvksf67fktamr4lrrpkoj87h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
